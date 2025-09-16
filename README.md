@@ -1,10 +1,10 @@
 # screenshotbase-go: Golang Website Screenshot Client
 
-This package is a Golang wrapper for screenshotbase.com that aims to make the usage of the API as easy as possible in your project.
+This package is a Golang wrapper for [screenshotbase.com](https://screenshotbase.com) that aims to make the usage of the API as easy as possible in your project.
 
 ## Usage
 
-Initialize the API with your API Key (get one for free at screenshotbase.com):
+Initialize the API with your API Key (get one for free at [screenshotbase.com](https://screenshotbase.com)):
 
 ```go
 import screenshotbase "github.com/everapihq/screenshotbase-go"
@@ -32,7 +32,7 @@ img, err := screenshotbase.Take(map[string]string{
 })
 ```
 
-Find out more about our endpoints, parameters and response data structure in the docs.
+Find out more about our endpoints, parameters and response data structure in the docs at [screenshotbase.com](https://screenshotbase.com).
 
 ## License
 
